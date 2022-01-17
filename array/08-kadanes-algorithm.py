@@ -1,3 +1,5 @@
+# NOT SOLVED |
+
 list_1_len = int(input())
 
 list_1 = []
