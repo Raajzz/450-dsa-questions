@@ -2,10 +2,10 @@
 A set of solutions for 450-dsa-questions.
 
 <pre>
-Topics Included and questions left,
-1. Array                - (0/36)
+Topics Included and questions done,
+1. Array                - (4/36)
 2. Matrix               - (0/10)
-3. String               - (0/43)
+3. String               - (3/43)
 4. Searching & Sorting  - (0/36)
 5. LinkedList           - (0/36)
 6. Binary Trees         - (0/35)
