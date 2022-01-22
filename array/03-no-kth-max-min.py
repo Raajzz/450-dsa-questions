@@ -1,10 +1,8 @@
 # NOT COMPLETED
 
-# METHOD ONE | SORTING
+# METHOD 1 | SORTING -> Merge Sort or Heap Sort O(N*Log(N)) solution
 
-# METHOD TWO | FIND THE SMALLEST NUMBER REPEATEDLY
-#            | AND REMOVE THAT NUMBER FOR K NUMBER 
-#            | OF TIMES
+# METHOD 2 | FIND THE SMALLEST NUMBER REPEATEDLY AND REMOVE THAT NUMBER FOR K NUMBER  OF TIMES
 
-# METHOD THREE
+# METHOD 3 | Get a number and increment everything based on that number. O(N^2) Time complexity and O(N) space complexity.
 
